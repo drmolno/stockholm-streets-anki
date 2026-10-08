@@ -1,0 +1,8 @@
+# Recreated by `python -m stockholm_streets fetch` (OSM data, ODbL)
+data/
+# Recreated by `python -m stockholm_streets build` / `preview`
+output/
+
+__pycache__/
+*.pyc
+.venv/
